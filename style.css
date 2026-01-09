@@ -7,9 +7,11 @@ header{
 footer{
     height: 150px;
     padding: 20px;
+    border-top: 1px white;
+    background-color: #193968;
 }
 body{
-    background-color:  #193968;
+    background-color:  #aaaaff;
     color: white;
     padding: 20px;
 }
