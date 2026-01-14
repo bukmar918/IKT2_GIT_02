@@ -11,13 +11,13 @@ A feladat egy weboldal, amely a GIT alapvető parancsait írja le.
 **JavaScript** : Egy magas szintű programozási nyelv, amellyel mozgó elemeket, animációkat, parancsokat lehet megjeleníteni a weboldalon.<br>
 
 
-> Technológiák értékelése: 
+> Technológiák értékelése:<br>
 
 | GIT | HTML | CSS | JS |
 | --- | --- | --- | --- |
 | **** | ***** | **** | *** |
 
-
+<br>
 Példa HTML-hez:
 
 ```html
