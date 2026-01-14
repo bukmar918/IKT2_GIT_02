@@ -13,16 +13,14 @@ footer{
     box-sizing: border-box;
     text-align: center;
 }
+h1{
+    text-align: center;
+}
 body{
     background-color:  #aaaaff;
     color: white;
     padding: 20px;
 }
-.images {
-    display: grid;
-    gap: 10px;
-    margin-top: 20px;
-  }
   
 .image {
     height: 200px;
