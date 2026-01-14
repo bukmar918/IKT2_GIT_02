@@ -2,9 +2,8 @@
 
 # GIT Jegyzet
 
----
-
 A feladat egy weboldal, amely a GIT alapvető parancsait írja le.
+
 
 **GIT** : Egy platform, ahol könnyen, egy időben lehet fájlokat megosztani. Hasznos csoportmunkáknak, de személyes fájlmegosztóként is üzemel.<br>
 **HTML** : Egy programozási nyelv, amely használtával weboldalakat lehet készíteni. A HTML fájlban megtalálható információkat jeleníti meg a böngésző.<br>
@@ -12,7 +11,7 @@ A feladat egy weboldal, amely a GIT alapvető parancsait írja le.
 **JavaScript** : Egy magas szintű programozási nyelv, amellyel mozgó elemeket, animációkat, parancsokat lehet megjeleníteni a weboldalon.<br>
 
 
-
+> Technológiák értékelése: 
 
 | GIT | HTML | CSS | JS |
 | --- | --- | --- | --- |
@@ -31,3 +30,4 @@ Példa HTML-hez:
     </body>
 </html>
 ```
+
