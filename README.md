@@ -30,3 +30,37 @@ Példa HTML-hez:
     </body>
 </html>
 ```
+
+Példa CSS-hez:
+
+```css
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.sidenav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+p {
+  text-align: center;
+  color: red;
+} 
+```
+
+Példa JavaScript-hez:
+
+```javascript
+let firstName = "John";
+let lastName = "Doe";
+
+let text = `Welcome ${firstName}, ${lastName}!`;
+```
+```javascript
+let price = 10;
+let VAT = 0.25;
+
+let total = `Total: ${(price * (1 + VAT)).toFixed(2)}`;
+```
